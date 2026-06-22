@@ -4,13 +4,13 @@ Engineering student passionate about crafting modern web experiences and explori
 ### 🚀 Projects
 
 **LexPilot AI** — Legal due-diligence tool for startup founders, built for "The Arch: RAG & Agentic AI Hackathon"
-[Repo](PASTE-LINK-HERE)
+(https://vaishnavi6204-stack.github.io/LexPilot-AI-/)
 
 **Interview Prep Bot** — AI mock interview tool with 5 interview modes
-[Live Demo](https://vaishnavi6204-stack.github.io/Interview-prep-bot/)
+(https://github.com/vaishnavi6204-stack/Interview-prep-bot)
 
 **Floral Charm** — AI-powered flower shop with a built-in shopping assistant ("Flora")
-[Live Demo](PASTE-LINK-HERE)
+(https://vaishnavi6204-stack.github.io/Floral-Charm/)
 
 ### Tech Stack
 
